@@ -30,14 +30,21 @@ Add real photos of your project:
 ![Blynk Charts](images/blynk_chart_section.png)
 ![Blynk Charts](images/blynk_chart_section.png)
 
-📊 4. Output Screens
+📊 Outputs (Blynk Dashboard, OLED, Serial Monitor, Sensor values)
 
-Add display screenshots (OLED, Serial Monitor, Sensor values):
+Blynk Dashboard
+
+![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/22d9045c-4f5b-434c-85b8-47743c76fb8b)
+![Blynk Dashboard Output - 2](https://github.com/user-attachments/assets/24fec24e-5bde-4d56-b644-84cb601f83f5)
+![Blynk Charts](images/blynk_chart_section.png)
+![Blynk Charts](images/blynk_chart_section.png)
+
+OLED display
 
 ![OLED Output](images/oled_output.jpg)
 ![OLED Output2](images/oled_output2.jpg)
 
-Serial Monitor Outputs - 
+Serial Monitor Outputs: 
 
 ![Serial Monitor output - 1](https://github.com/user-attachments/assets/ee8d8dcd-782f-43d6-b3f8-1a6448baee7a)
 ![Serial Monitor output - 2](https://github.com/user-attachments/assets/ab3201e4-a4fc-435f-ad05-e926b15931a5)
