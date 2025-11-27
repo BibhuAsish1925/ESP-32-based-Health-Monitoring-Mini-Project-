@@ -28,11 +28,13 @@ char ssid[] = "Airtel_bisw_4895";
 char pass[] = "Air@27541";
 
 /*************** OLED SETUP ********************/
+
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 /*************** SENSOR SETUP ******************/
+
 MAX30105 particleSensor;
 
 #define DHTPIN 15
@@ -266,5 +268,6 @@ void loop() {
   delay(1000);
 
 }
+
 
 
