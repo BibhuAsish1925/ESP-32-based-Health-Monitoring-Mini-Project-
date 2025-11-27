@@ -266,6 +266,7 @@ void loop() {
   Serial.println("--------------------------------");
 
   // Send final message to Blynk (V6)
+  
   Blynk.virtualWrite(V6, finalMessage);
 
   /**************************************************/
@@ -274,6 +275,7 @@ void loop() {
   delay(1000);
 
 }
+
 
 
 
