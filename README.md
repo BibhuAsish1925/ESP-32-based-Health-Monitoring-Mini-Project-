@@ -25,10 +25,7 @@ Add real photos of your project:
 
 📱 3. Blynk Dashboard & Mobile Template
 
-Add 4–5 screenshots of your Blynk web dashboard & mobile app:
-
-![Blynk Dashboard output - 1](<img width="1639" height="795" alt="image" src="https://github.com/user-attachments/assets/ec4dadc9-6905-4828-a061-16ff4b2a1a3b" />)
-![Blynk Dashboard](images/blynk_dashboard1.png)
+![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/22d9045c-4f5b-434c-85b8-47743c76fb8b)
 ![Blynk Mobile](images/blynk_mobile1.jpg)
 ![Blynk Charts](images/blynk_chart_section.png)
 
