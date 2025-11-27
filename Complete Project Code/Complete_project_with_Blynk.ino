@@ -20,6 +20,7 @@
 #include "DHT.h"
 
 /*************** WiFi Credentials **************/
+
 // char ssid[] = "Emerging_iot_5G";
 // char pass[] = "ESP32@2023";
 
@@ -265,4 +266,5 @@ void loop() {
   delay(1000);
 
 }
+
 
