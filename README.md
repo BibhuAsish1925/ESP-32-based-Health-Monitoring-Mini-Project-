@@ -13,9 +13,8 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 ---
 🔌 1. Circuit Diagram
 
-Add your circuit schematic image here:
+![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/76108aeb-4103-4aa4-8b6a-baab705030a6)
 
-(![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/76108aeb-4103-4aa4-8b6a-baab705030a6))
 
 🧪 2. Actual Hardware Setup
 
