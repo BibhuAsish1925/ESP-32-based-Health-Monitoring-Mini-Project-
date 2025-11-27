@@ -51,6 +51,7 @@ int8_t validSpo2 = 0, validHeartRate = 0;
 const uint32_t FINGER_THRESHOLD = 5000;
 
 /*************** BLYNK SEND TIMER **************/
+
 BlynkTimer timer;
 
 /*************************************************
@@ -65,6 +66,7 @@ BlynkTimer timer;
  * V5 -> Wetness Alert (0/1)
  * V6 -> Status message
  *************************************************/
+
 void sendToBlynk() {
   float temperature = dht.readTemperature();
   float humidity = dht.readHumidity();
@@ -268,6 +270,7 @@ void loop() {
   delay(1000);
 
 }
+
 
 
 
