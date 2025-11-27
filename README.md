@@ -15,7 +15,7 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 Add your circuit schematic image here:
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/76108aeb-4103-4aa4-8b6a-baab705030a6))
 
 🧪 2. Actual Hardware Setup
 
@@ -40,42 +40,6 @@ Add display screenshots (OLED, Serial Monitor, Sensor values):
 ![OLED Output](images/oled_output.jpg)
 ![Serial Output](images/serial_output.png)
 ![Sensor Values](images/sensor_values.png)
-
-
-
-
-<table align="center">
-  <tr>
-    <td>
-      <figure>
-        <img width="500" alt="ssp4" src="https://github.com/user-attachments/assets/02b9d263-fe49-4ede-918c-189329898ad7" />
-        <div align="center"><figcaption> Xilinx dashboard</figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img width="500" alt="ssp1" src="https://github.com/user-attachments/assets/4e72139f-1344-4438-8f9f-0398128334d7" />
-        <div align="center"><figcaption> Combinational Circuits </figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <figure>
-        <img width="500" alt="ssp2" src="https://github.com/user-attachments/assets/bdc0c0f0-8da2-4cc1-95f1-0c3331226c9b" />
-        <div align="center"><figcaption> Sequencial Circuits </figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img width="500" alt="ssp3" src="![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/7b3393b6-293a-48a8-b4f3-09dbc22cf967)" />
-        <div align="center"><figcaption> State Machines </figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
-
-
 
 
 ## 🎥 **Project Video**
