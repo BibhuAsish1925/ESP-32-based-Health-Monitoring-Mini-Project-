@@ -90,6 +90,7 @@ void sendToBlynk() {
 /*************************************************
  * Setup
  *************************************************/
+
 void setup() {
   Serial.begin(115200);
   Wire.begin();
@@ -143,6 +144,7 @@ void loop() {
   uint32_t irValue = particleSensor.getIR();
 
   /************* MAX30102 FINGER LOGIC ************/
+  
   if (irValue > FINGER_THRESHOLD) {
     for (int i = 0; i < 100; i++) {
       while (!particleSensor.available())
@@ -168,6 +170,7 @@ void loop() {
   }
 
   /************* SERIAL OUTPUT *************/
+  
   Serial.println("-------------------------");
   Serial.print("Temp: "); Serial.println(temperature);
   Serial.print("Humidity: "); Serial.println(humidity);
@@ -184,6 +187,7 @@ void loop() {
   Serial.println("-------------------------");
 
   /************* OLED OUTPUT *************/
+  
   display.clearDisplay();
   display.setTextSize(1);
   display.setTextColor(WHITE);
@@ -270,6 +274,7 @@ void loop() {
   delay(1000);
 
 }
+
 
 
 
