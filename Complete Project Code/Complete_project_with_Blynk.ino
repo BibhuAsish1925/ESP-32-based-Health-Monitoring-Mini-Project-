@@ -22,6 +22,7 @@
 /*************** WiFi Credentials **************/
 // char ssid[] = "Emerging_iot_5G";
 // char pass[] = "ESP32@2023";
+
 char ssid[] = "Airtel_bisw_4895";
 char pass[] = "Air@27541";
 
@@ -264,3 +265,4 @@ void loop() {
   delay(1000);
 
 }
+
