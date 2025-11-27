@@ -1,15 +1,3 @@
-Here is an **updated README.md** with a **dedicated Image Gallery section** where you can later add:
-
-* Circuit diagram
-* Actual circuit photo
-* Blynk console screenshots
-* Blynk mobile template screenshots
-* Output screenshots (OLED + Serial + Sensors)
-
-You can directly **paste this in your GitHub README.md**.
-
----
-
 # 🫀 Health Monitoring System (ESP32-Based IoT Project)
 
 A complete **IoT-based Health Monitoring System** developed as part of an Engineering Project.
@@ -35,17 +23,12 @@ Paste your video link here ↓
 
 ## 🖼️ Image Gallery (Circuit + Blynk + Outputs)
 
-You can paste your images here.
-GitHub automatically displays images beautifully.
-
----
-
 ### 🔌 **1. Circuit Diagram**
 
 *Add your circuit schematic image here:*
 
 ```
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/0fac85c3-a107-420c-ba62-036f92d5d9aa))
 ```
 
 ---
@@ -162,19 +145,6 @@ Install these via Arduino Library Manager:
 
 ---
 
-## 📁 Project Structure
-
-```
-Health-Monitoring-System/
-│── src/
-│── images/      <-- Add your images here
-│── README.md
-│── main_code.ino
-└── LICENSE
-```
-
----
-
 ## ▶️ How to Run
 
 1. Install all required libraries
@@ -198,11 +168,3 @@ Health-Monitoring-System/
 ## 📄 License
 
 This project is released under the **MIT License**.
-
----
-
-If you want, I can also generate:
-✅ A professional **GitHub cover banner**
-✅ A **circuit diagram**
-✅ A formatted **table of outputs**
-Just ask!
