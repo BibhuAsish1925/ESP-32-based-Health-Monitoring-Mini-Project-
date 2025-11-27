@@ -77,10 +77,10 @@ Alerts appear on:
 | Function                | V-Pin |
 | ----------------------- | ----- |
 | Heart Rate              | V0    |
-| SpO₂                    | V2    |
-| Moisture %              | V4    |
-| Temperature             | V3    |
 | Humidity                | V1    |
+| SpO₂                    | V2    |
+| Temperature             | V3    |
+| Moisture %              | V4    |
 | Wetness Alert           | V5    |
 | Combined Status Message | V6    |
 
@@ -107,12 +107,6 @@ Install these from Arduino Library Manager:
 4. Upload code to ESP32
 5. Open Serial Monitor @ 115200
 6. Check OLED and Blynk Dashboard
-
----
-
-## 📸 **Output Screens (Optional Section)**
-
-You can add screenshots here later.
 
 ---
 
