@@ -56,7 +56,6 @@ BlynkTimer timer;
 /*************************************************
  * Send data to Blynk every 2 seconds
  * (PIN MAPPING FIXED to match your dashboard)
- *
  * V0 -> Heart Rate (BPM)
  * V2 -> SpO2 (%)
  * V4 -> Moisture % (rain)
@@ -128,6 +127,7 @@ void setup() {
 
   delay(1000);
 }
+
 
 /*************************************************
  * Loop
@@ -214,7 +214,6 @@ void loop() {
   }
 
   /*************** MESSAGE LOGIC BLOCK ***************/
-  // Builds status strings based on current sensor values and sends to Serial + Blynk (V6)
 
   String healthMessage = "";
   String wetMessage = "";
@@ -271,6 +270,7 @@ void loop() {
   delay(1000);
 
 }
+
 
 
 
