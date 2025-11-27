@@ -1,75 +1,29 @@
 # 🫀 Health Monitoring System (ESP32-Based IoT Project)
 
 A complete **IoT-based Health Monitoring System** developed as part of an Engineering Project.
-The system monitors **Heart Rate**, **SpO₂**, **Temperature**, **Humidity**, and **Wetness**, displaying results on:
-
-* 📟 **OLED Display**
-* 💻 **Serial Monitor**
-* 🌐 **Blynk IoT Dashboard**
-
-With intelligent alert messages and real-time IoT connectivity.
+The system continuously monitors **Heart Rate**, **SpO₂**, **Temperature**, **Humidity**, and **Wetness**, displaying results on **OLED**, **Serial Monitor**, and **Blynk IoT Dashboard** with intelligent alert messages.
 
 ---
 
-## 🎥 Project Video
+## 📌 **Project Overview**
 
-Paste your video link here ↓
+This project uses ESP32 and multiple sensors to create a smart health monitoring solution.
+It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
+
+---
+
+## 🎥 **Project Video**
+
+You can paste your project demo video link below.
+Once added, the video text will turn **blue & clickable** (just like the screenshot you shared):
 
 ### 👉 [PROJECT VIDEO: Click to Watch](#)
 
-*(Replace `#` with your YouTube/Drive link — it will appear blue & clickable)*
+*(Replace the `#` with your YouTube or Drive video link)*
 
 ---
 
-## 🖼️ Image Gallery (Circuit + Blynk + Outputs)
-
-### 🔌 **1. Circuit Diagram**
-
-*Add your circuit schematic image here:*
-
-```
-![image](![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/9ea089f9-89e3-4649-8e4b-3bd6d1dcc12a))
-```
-
----
-
-### 🧪 **2. Actual Hardware Setup**
-
-*Add real photos of your project:*
-
-```
-![Hardware Setup](images/circuit_photo1.jpg)
-![Hardware Close-up](images/circuit_photo2.jpg)
-```
-
----
-
-### 📱 **3. Blynk Dashboard & Mobile Template**
-
-*Add 4–5 screenshots of your Blynk web dashboard & mobile app:*
-
-```
-![Blynk Template](images/blynk_template1.png)
-![Blynk Dashboard](images/blynk_dashboard1.png)
-![Blynk Mobile](images/blynk_mobile1.jpg)
-![Blynk Charts](images/blynk_chart_section.png)
-```
-
----
-
-### 📊 **4. Output Screens**
-
-*Add display screenshots (OLED, Serial Monitor, Sensor values):*
-
-```
-![OLED Output](images/oled_output.jpg)
-![Serial Output](images/serial_output.png)
-![Sensor Values](images/sensor_values.png)
-```
-
----
-
-## 🛠️ Hardware Used
+## 🛠️ **Hardware Used**
 
 | Component            | Purpose                  |
 | -------------------- | ------------------------ |
@@ -77,33 +31,33 @@ Paste your video link here ↓
 | MAX30102             | Heart Rate & SpO₂ sensor |
 | DHT11                | Temperature & Humidity   |
 | Rain Sensor (Analog) | Wetness detection        |
-| OLED SSD1306         | Display                  |
-| Jumper Wires         | Connections              |
+| OLED SSD1306         | Status display           |
+| PCB Board & wires    | Connections              |
 
 ---
 
-## 📡 System Features
+## 📡 **System Features**
 
 ### ❤️ Heart & Oxygen Monitoring
 
 * Heart Rate (BPM)
-* SpO₂ (%)
-* Automatic finger detection
-* Clean output on OLED + Blynk
+* SpO₂ (% Oxygen Saturation)
+* Auto-finger detection
+* Real-time display on OLED + Blynk
 
 ### 🌡️ Temperature & Humidity Monitoring
 
-* DHT11 readings
-* Heat alert system
+* Ambient temperature
+* Humidity percentage
 
 ### ☔ Wetness Detection
 
-* Rain sensor converted to moisture %
-* Wet/Dry alerts
+* Detects moisture level
+* Converts ADC → Percentage
 
 ### ⚠️ Smart Alerts
 
-System automatically prints:
+Displays intelligent messages based on sensor readings:
 
 * **Health issue alert due to Heart & SpO₂**
 * **Wet / Dry Alert**
@@ -118,7 +72,7 @@ Alerts appear on:
 
 ---
 
-## 📲 Blynk Virtual Pin Mapping
+## 📲 **Blynk Virtual Pin Mapping**
 
 | Function                | V-Pin |
 | ----------------------- | ----- |
@@ -132,39 +86,46 @@ Alerts appear on:
 
 ---
 
-## 📚 Required Libraries
+## 📚 **Required Libraries**
 
-Install these via Arduino Library Manager:
+Install these from Arduino Library Manager:
 
-* **Blynk**
-* **Adafruit SSD1306**
-* **Adafruit GFX**
-* **SparkFun MAX3010x**
-* **DHT Sensor Library**
-* **Wire**
+* Blynk
+* Adafruit SSD1306
+* Adafruit GFX
+* DHT Sensor Library
+* SparkFun MAX3010x Library
+* Wire
 
 ---
 
-## ▶️ How to Run
+## ▶️ **How to Run**
 
-1. Install all required libraries
-2. Add your WiFi credentials
-3. Add Blynk Template ID, Template Name & Auth Token
-4. Upload the Arduino code to ESP32
+1. Install required libraries
+2. Enter WiFi SSID & Password
+3. Add Blynk Template ID, Name & Auth Token
+4. Upload code to ESP32
 5. Open Serial Monitor @ 115200
-6. Check OLED + Blynk Dashboard
+6. Check OLED and Blynk Dashboard
 
 ---
 
-## 🔮 Future Enhancements
+## 📸 **Output Screens (Optional Section)**
 
-* Push notifications (SMS/Email)
-* Firebase / Cloud data logging
-* Health history charts
-* Buzzer/Alarm module
+You can add screenshots here later.
+
+---
+
+## 🔮 **Future Scope**
+
+* Push Notifications (SMS/Email)
+* Firebase cloud storage
+* Health history tracking
+* Buzzer alert system
 
 ---
 
 ## 📄 License
 
-This project is released under the **MIT License**.
+This project is open-source under the **MIT License**.
+
