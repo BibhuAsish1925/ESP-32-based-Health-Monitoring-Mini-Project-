@@ -11,6 +11,14 @@ This project uses ESP32 and multiple sensors to create a smart health monitoring
 It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 ---
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/76180aeb-4103-4aa4-8b6a-baab705930a6" 
+       alt="Circuit Diagram - Health Monitoring" width="600">
+</div>
+
+
 🔌 1. Circuit Diagram
 
 ![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/76108aeb-4103-4aa4-8b6a-baab705030a6)
