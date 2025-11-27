@@ -5,9 +5,6 @@
 # 1. File header / Blynk template defines
 
 ```cpp
-/*************************************************
- *  MUST BE AT TOP (before ANY include)
- *************************************************/
 #define BLYNK_TEMPLATE_ID "TMPL36iH5oeLd"
 #define BLYNK_TEMPLATE_NAME "Baby monitoring system"
 #define BLYNK_AUTH_TOKEN "vM-fCob27zrRtoTraelQYMAJ3RceyWm3"
@@ -244,7 +241,7 @@ finalMessage = healthMessage + " | " + wetMessage + " | " + tempMessage;
 // Serial prints and Blynk.virtualWrite(V6, finalMessage)
 ```
 
-**Explanation of each rule you requested:**
+**Explanation of each rule:**
 
 1. **Health alert** — checks heart rate and SpO₂:
 
@@ -324,11 +321,6 @@ On each loop the device reads local sensors (DHT for temperature/humidity, ADC f
 
 ---
 
-# 17. Deliverable checklist (what to hand to faculty)
 
-1. The full code (the sketch you provided) — unchanged except for the message block (what you will upload).
-2. A wiring diagram or simple list of connections (SDA/SCL, VCC, GND, DHT pin, rain pin).
-3. A short runtime demo script: show Serial monitor startup, place a finger on MAX and show HR/SpO₂ appear, sprinkle water on rain sensor or simulate wetness and show dashboard wetness, change temperature to show high temp alert (or point to code threshold).
-4. Calibration notes: what thresholds you used and how to tune them (IR amplitude, FINGER_THRESHOLD, rain mapping, temperature).
 
 
