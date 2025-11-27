@@ -1,6 +1,5 @@
-/*************************************************
- *  Blynk templates and modules
- *************************************************/
+/*************Blynk templates and modules*************/
+
 #define BLYNK_TEMPLATE_ID "TMPL36iH5oeLd"
 #define BLYNK_TEMPLATE_NAME "Baby monitoring system"
 #define BLYNK_AUTH_TOKEN "vM-fCob27zrRtoTraelQYMAJ3RceyWm3"
@@ -272,6 +271,7 @@ void loop() {
   delay(1000);
 
 }
+
 
 
 
