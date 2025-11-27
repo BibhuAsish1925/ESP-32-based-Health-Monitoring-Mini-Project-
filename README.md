@@ -26,7 +26,7 @@ Add real photos of your project:
 📱 3. Blynk Dashboard & Mobile Template
 
 ![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/22d9045c-4f5b-434c-85b8-47743c76fb8b)
-![Blynk Mobile](images/blynk_mobile1.jpg)
+![Blynk Dashboard Output - 2](https://github.com/user-attachments/assets/24fec24e-5bde-4d56-b644-84cb601f83f5)
 ![Blynk Charts](images/blynk_chart_section.png)
 
 📊 4. Output Screens
