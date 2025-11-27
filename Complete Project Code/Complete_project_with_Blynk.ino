@@ -213,10 +213,15 @@ void loop() {
   String finalMessage = "";
 
   // 1. HEART + SPO2 ABNORMAL check (tune thresholds as needed)
-  bool heartAbnormal = (heartRate < 60 || heartRate > 140); // heart threshold (normal babies/toddlers can vary; tune)
-  bool spo2Abnormal  = (spo2 > 0 && spo2 < 92);            // if spo2==0 means no finger, treat as not abnormal here
-
-  if (heartAbnormal || spo2Abnormal) {
+  bool heartAbnormal = (heartRate < 60 || heartRate > 140);
+  bool spo2Abnormal  = (spo2 > 0 && spo2 < 92);
+  
+  // NO FINGER PLACED CONDITION
+  if (heartRate == 0 && spo2 == 0 && temperature < 38.0) {
+    healthMessage = "No Finger Placed";
+  }
+  // FINGER PLACED CONDITION
+  else if (heartAbnormal || spo2Abnormal) {
     healthMessage = "Health issue alert due to Heart & SpO2";
   } else {
     healthMessage = "Normal";
@@ -257,4 +262,5 @@ void loop() {
 
   display.display();
   delay(1000);
+
 }
