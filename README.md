@@ -28,8 +28,7 @@ Paste your video link here ↓
 *Add your circuit schematic image here:*
 
 ```
-![Circuit Diagram](images/![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/a9e1e6e4-b059-495a-b9d5-dcf449c86a5e))
-
+![image](![Circuit Diagram - Health Monitoring](https://github.com/user-attachments/assets/9ea089f9-89e3-4649-8e4b-3bd6d1dcc12a))
 ```
 
 ---
