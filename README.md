@@ -208,29 +208,29 @@ Alerts appear on:
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3554719f-38a0-41f3-ad8c-2accb19d7cec" alt="Blynk Dashboard Output - 0" width="360"/><br/>
-      <small>Blynk - Screen 0</small>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/85b379b0-2c5c-4d68-ac48-ede23f03cf08" alt="Blynk Dashboard Output - 1" width="360"/><br/>
       <small>Blynk - Screen 1</small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0fc8e99e-0bdb-4437-ac1b-3752211f9c2f" alt="Blynk Dashboard Output - 2" width="360"/><br/>
+      <img src="https://github.com/user-attachments/assets/85b379b0-2c5c-4d68-ac48-ede23f03cf08" alt="Blynk Dashboard Output - 1" width="360"/><br/>
       <small>Blynk - Screen 2</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0fc8e99e-0bdb-4437-ac1b-3752211f9c2f" alt="Blynk Dashboard Output - 2" width="360"/><br/>
+      <small>Blynk - Screen 3</small>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ae858e5b-a84f-4bb7-972f-3ab710b1ab71" alt="Blynk Dashboard Output - 3" width="360"/><br/>
-      <small>Blynk - Screen 3</small>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/22c9c38f-162f-4577-b837-3a25eb0193e6" alt="Blynk Dashboard Output - 4" width="360"/><br/>
       <small>Blynk - Screen 4</small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/12941019-fbf3-4c73-91d6-d0aa26d5f4d8" alt="Blynk Dashboard Output - 5" width="360"/><br/>
+      <img src="https://github.com/user-attachments/assets/22c9c38f-162f-4577-b837-3a25eb0193e6" alt="Blynk Dashboard Output - 4" width="360"/><br/>
       <small>Blynk - Screen 5</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/12941019-fbf3-4c73-91d6-d0aa26d5f4d8" alt="Blynk Dashboard Output - 5" width="360"/><br/>
+      <small>Blynk - Screen 6</small>
     </td>
   </tr>
 </table>
