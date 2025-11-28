@@ -16,21 +16,21 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 ---
 
----
-
-## 🛠️ **Hardware Used & I/O Pin Configuration**
-
 ### 📦 **Hardware Components Used**
+
 | Component | Quantity | Purpose |
 |----------|----------|---------|
 | **ESP32 Dev Module** | 1 | Main microcontroller with WiFi support |
 | **MAX30102 Pulse Oximeter & Heart Rate Sensor** | 1 | Measures Heart Rate & SpO₂ |
-| **DHT11 Temperature & Humidity Sensor** | 1 | Measures body temperature & room humidity |
+| **DHT11 Temperature & Humidity Sensor** | 1 | Measures temperature & humidity |
 | **Rain Sensor (Analog Type)** | 1 | Detects moisture/wetness |
-| **OLED Display (SSD1306, I2C)** | 1 | Shows real-time readings |
-| **Jumper Wires** | – | Connections |
-| **Breadboard** | 1 | Prototyping |
-| **USB Cable** | 1 | Power + Code upload |
+| **OLED Display (SSD1306, I2C)** | 1 | Real-time visual display |
+| **Power Cable (USB)** | 1 | Power + Programming |
+| **Connecting Option 1:** Breadboard + Jumper Wires | — | Common prototyping method |
+| **Connecting Option 2 (Used in This Project):** PCB Board + Header Pins + Wires | — | Stronger, permanent connection |
+
+> **Note:**  
+> This project was finally assembled using a **PCB board with header pins**, as it provides a more durable and secure wiring structure compared to a breadboard setup.
 
 ---
 
@@ -40,17 +40,17 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 |-----------------------------|------------------------|-----------|-------|
 | **DHT11 Sensor**            | Data                  | **GPIO 15** | Reads Temperature & Humidity |
 | **Rain Sensor (Analog)**    | Analog Output         | **GPIO 35 (ADC1_CH7)** | Wetness detection |
-| **MAX30102 Sensor**         | SDA                   | **GPIO 21** | I2C Data |
-|                             | SCL                   | **GPIO 22** | I2C Clock |
+| **MAX30102 Sensor**         | SDA                   | **GPIO 21** | I²C Data |
+|                             | SCL                   | **GPIO 22** | I²C Clock |
 |                             | VIN                   | 3.3V / 5V | Power |
 |                             | GND                   | GND | Ground |
-| **OLED Display (SSD1306)**  | SDA                   | **GPIO 21** | Shared I2C line |
-|                             | SCL                   | **GPIO 22** | Shared I2C line |
+| **OLED Display (SSD1306)**  | SDA                   | **GPIO 21** | Shared I²C line |
+|                             | SCL                   | **GPIO 22** | Shared I²C line |
 |                             | VCC                   | 3.3V | Power |
 |                             | GND                   | GND | Ground |
-| **ESP32 Power**             | 5V / USB              | — | Main power input |
-| **Other Notes**             | OLED I²C Address      | 0x3C | Default address |
-|                             | I²C Speed             | 400 kHz | FAST mode |
+| **ESP32 Power**             | USB / 5V              | — | Main power input |
+| **Other Notes**             | OLED I²C Address      | 0x3C | Default |
+|                             | I²C Speed             | 400 kHz | FAST Mode |
 
 ---
 
@@ -67,7 +67,18 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 ---
 
+### 🔧 **Build Options**
 
+#### ✔ **Option A – Breadboard + Jumper Wires**
+- Best for prototyping  
+- Easy to modify  
+- Flexible layout but less durable  
+
+#### ✔ **Option B – PCB Board + Header Pins + Wires (Used in This Project)**  
+- Strong connections  
+- Clean and compact layout  
+- Suitable for final demonstration  
+- Reduces loose-connection issues  
 
 ---
 
