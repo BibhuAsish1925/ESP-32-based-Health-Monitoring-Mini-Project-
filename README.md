@@ -177,7 +177,32 @@ Alerts appear on:
 
 ## 📊 Outputs (Blynk Dashboard, OLED, Serial Monitor, Sensor values)
 
-### 1) Blynk Dashboard 
+### 1) Hardware Simulation and OLED display
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f0ddb09b-4025-4a77-a151-89c06fb7ba36" alt="Hardware Simulation - 1" width="420"/><br/>
+      <small>Hardware Simulation 1</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cd8b3111-0522-46ba-aa01-399fba315827" alt="Hardware Simulation - 2" width="420"/><br/>
+      <small>Hardware Simulation 2</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/914928e3-f637-42e9-a5a3-c9f1e582e674" alt="Hardware Simulation - 3" width="420"/><br/>
+      <small>Hardware Simulation 3</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="420"/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 2) Blynk Dashboard 
 <table>
   <tr>
     <td align="center">
@@ -205,31 +230,6 @@ Alerts appear on:
     <td align="center">
       <img src="https://github.com/user-attachments/assets/12941019-fbf3-4c73-91d6-d0aa26d5f4d8" alt="Blynk Dashboard Output - 5" width="360"/><br/>
       <small>Blynk - Screen 5</small>
-    </td>
-  </tr>
-</table>
-
----
-
-### 2) Hardware Simulation and OLED display
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f0ddb09b-4025-4a77-a151-89c06fb7ba36" alt="Hardware Simulation - 1" width="420"/><br/>
-      <small>Hardware Simulation 1</small>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/cd8b3111-0522-46ba-aa01-399fba315827" alt="Hardware Simulation - 2" width="420"/><br/>
-      <small>Hardware Simulation 2</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/914928e3-f637-42e9-a5a3-c9f1e582e674" alt="Hardware Simulation - 3" width="420"/><br/>
-      <small>Hardware Simulation 3</small>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="420"/><br/>
     </td>
   </tr>
 </table>
