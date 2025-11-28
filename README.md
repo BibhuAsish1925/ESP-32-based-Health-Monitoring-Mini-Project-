@@ -16,16 +16,58 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 ---
 
-## 🛠️ **Hardware Used**
+---
 
-| Component            | Purpose                  |
-| -------------------- | ------------------------ |
-| ESP32 Dev Board      | Main controller          |
-| MAX30102             | Heart Rate & SpO₂ sensor |
-| DHT11                | Temperature & Humidity   |
-| Rain Sensor (Analog) | Dryness/Wetness detection|
-| OLED SSD1306         | Status display           |
-| PCB Board & wires    | Connections              |
+## 🛠️ **Hardware Used & I/O Pin Configuration**
+
+### 📦 **Hardware Components Used**
+| Component | Quantity | Purpose |
+|----------|----------|---------|
+| **ESP32 Dev Module** | 1 | Main microcontroller with WiFi support |
+| **MAX30102 Pulse Oximeter & Heart Rate Sensor** | 1 | Measures Heart Rate & SpO₂ |
+| **DHT11 Temperature & Humidity Sensor** | 1 | Measures body temperature & room humidity |
+| **Rain Sensor (Analog Type)** | 1 | Detects moisture/wetness |
+| **OLED Display (SSD1306, I2C)** | 1 | Shows real-time readings |
+| **Jumper Wires** | – | Connections |
+| **Breadboard** | 1 | Prototyping |
+| **USB Cable** | 1 | Power + Code upload |
+
+---
+
+## 🔌 **I/O Pin Configuration (ESP32 Pin Mapping)**  
+
+| Component / Module           | Signal / Function     | ESP32 Pin | Notes |
+|-----------------------------|------------------------|-----------|-------|
+| **DHT11 Sensor**            | Data                  | **GPIO 15** | Reads Temperature & Humidity |
+| **Rain Sensor (Analog)**    | Analog Output         | **GPIO 35 (ADC1_CH7)** | Wetness detection |
+| **MAX30102 Sensor**         | SDA                   | **GPIO 21** | I2C Data |
+|                             | SCL                   | **GPIO 22** | I2C Clock |
+|                             | VIN                   | 3.3V / 5V | Power |
+|                             | GND                   | GND | Ground |
+| **OLED Display (SSD1306)**  | SDA                   | **GPIO 21** | Shared I2C line |
+|                             | SCL                   | **GPIO 22** | Shared I2C line |
+|                             | VCC                   | 3.3V | Power |
+|                             | GND                   | GND | Ground |
+| **ESP32 Power**             | 5V / USB              | — | Main power input |
+| **Other Notes**             | OLED I²C Address      | 0x3C | Default address |
+|                             | I²C Speed             | 400 kHz | FAST mode |
+
+---
+
+### 🧩 **Quick Pin Summary**
+- **I²C Bus (shared by MAX30102 + OLED):**  
+  - SDA → **GPIO 21**  
+  - SCL → **GPIO 22**
+
+- **Analog Input:**  
+  - Rain Sensor → **GPIO 35**
+
+- **Digital Input:**  
+  - DHT11 Data → **GPIO 15**
+
+---
+
+
 
 ---
 
