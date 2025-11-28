@@ -106,6 +106,11 @@ Alerts appear on:
 
 ---
 
+## 🎥 **Project Video**
+
+### 👉 [PROJECT VIDEO: Click to Watch](https://drive.google.com/file/d/1GC28OuMpl1OsVApRBo14bNPF3sxIeKYS/view?usp=sharing)
+
+---
 ## 🖼️ Image Gallery
 
 ### 🔌 1. Circuit Diagram
@@ -119,12 +124,6 @@ Alerts appear on:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac5a11c8-cc11-4038-81eb-a7ed1d443831" alt="Setup Simulation - 1" width="700"/>
 </p>
-
----
-
-## 🎥 **Project Video**
-
-### 👉 [PROJECT VIDEO: Click to Watch](https://drive.google.com/file/d/1GC28OuMpl1OsVApRBo14bNPF3sxIeKYS/view?usp=sharing)
 
 ---
 
