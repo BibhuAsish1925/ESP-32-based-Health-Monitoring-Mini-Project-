@@ -196,6 +196,7 @@ Alerts appear on:
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="420"/><br/>
+      <small>Setup Simulations </small>
     </td>
   </tr>
 </table>
