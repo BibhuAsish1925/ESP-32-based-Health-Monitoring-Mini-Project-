@@ -117,7 +117,7 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
       <small>Hardware Simulation 3</small>
     </td>
     <td align="center">
-      <!-- empty cell if you have no 4th image; remove <td>..</td> row if not needed -->
+      <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="420"/><br/>
     </td>
   </tr>
 </table>
