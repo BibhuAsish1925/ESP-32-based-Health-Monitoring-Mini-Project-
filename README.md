@@ -20,14 +20,13 @@ It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
 Add real photos of your project:
 
-![Hardware Setup](images/circuit_photo1.jpg)
-![Hardware Close-up](images/circuit_photo2.jpg)
+![Setup Simulation - 1](https://github.com/user-attachments/assets/ac5a11c8-cc11-4038-81eb-a7ed1d443831)
 
 ---
 
 ## 📊 **Outputs (Blynk Dashboard, OLED, Serial Monitor, Sensor values)**
 
-1. Blynk Dashboard
+1. Blynk Dashboard:
 
 ![Blynk Dashboard Output - 0](https://github.com/user-attachments/assets/3554719f-38a0-41f3-ad8c-2accb19d7cec)
 ![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/85b379b0-2c5c-4d68-ac48-ede23f03cf08)
@@ -36,10 +35,12 @@ Add real photos of your project:
 ![Blynk Dashboard Output - 4](https://github.com/user-attachments/assets/22c9c38f-162f-4577-b837-3a25eb0193e6)
 ![Blynk Dashboard Output - 5](https://github.com/user-attachments/assets/12941019-fbf3-4c73-91d6-d0aa26d5f4d8)
 
-2. OLED display
+2. Hardware Simulation and OLED display:
 
-![OLED Output](images/oled_output.jpg)
-![OLED Output2](images/oled_output2.jpg)
+![Hardware Simulation - 1](https://github.com/user-attachments/assets/f0ddb09b-4025-4a77-a151-89c06fb7ba36)
+![Hardware Simulation - 2](https://github.com/user-attachments/assets/cd8b3111-0522-46ba-aa01-399fba315827)
+![Hardware Simulation - 3](https://github.com/user-attachments/assets/914928e3-f637-42e9-a5a3-c9f1e582e674)
+
 
 3. Serial Monitor Outputs: 
 
@@ -52,9 +53,7 @@ Add real photos of your project:
 You can paste your project demo video link below.
 Once added, the video text will turn **blue & clickable** (just like the screenshot you shared):
 
-### 👉 [PROJECT VIDEO: Click to Watch](#)
-
-*(Replace the `#` with your YouTube or Drive video link)*
+### 👉 [PROJECT VIDEO: Click to Watch](https://drive.google.com/file/d/1GC28OuMpl1OsVApRBo14bNPF3sxIeKYS/view?usp=sharing)
 
 ---
 
