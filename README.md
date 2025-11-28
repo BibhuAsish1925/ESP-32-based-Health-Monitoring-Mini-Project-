@@ -10,6 +10,10 @@ The system continuously monitors **Heart Rate**, **SpO₂**, **Temperature**, **
 This project uses ESP32 and multiple sensors to create a smart health monitoring solution.
 It provides real-time data, alerts, and wireless monitoring via Blynk IoT.
 
+## 🎥 **Project Video**
+
+### 👉 [PROJECT VIDEO: Click to Watch](https://drive.google.com/file/d/1GC28OuMpl1OsVApRBo14bNPF3sxIeKYS/view?usp=sharing)
+
 ---
 
 ## 🛠️ **Hardware Used**
@@ -102,11 +106,6 @@ Alerts appear on:
 
 ---
 
-## 🎥 **Project Video**
-
-### 👉 [PROJECT VIDEO: Click to Watch](https://drive.google.com/file/d/1GC28OuMpl1OsVApRBo14bNPF3sxIeKYS/view?usp=sharing)
-
----
 ## 🖼️ Image Gallery
 
 ### 🔌 1. Circuit Diagram
