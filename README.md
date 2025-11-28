@@ -30,9 +30,11 @@ Add real photos of your project:
 1. Blynk Dashboard
 
 ![Blynk Dashboard Output - 0](https://github.com/user-attachments/assets/3554719f-38a0-41f3-ad8c-2accb19d7cec)
-![Blynk Dashboard Output - 2](https://github.com/user-attachments/assets/24fec24e-5bde-4d56-b644-84cb601f83f5)
-![Blynk Charts](images/blynk_chart_section.png)
-![Blynk Charts](images/blynk_chart_section.png)
+![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/85b379b0-2c5c-4d68-ac48-ede23f03cf08)
+![Blynk Dashboard Output - 2](https://github.com/user-attachments/assets/0fc8e99e-0bdb-4437-ac1b-3752211f9c2f)
+![Blynk Dashboard Output - 3](https://github.com/user-attachments/assets/ae858e5b-a84f-4bb7-972f-3ab710b1ab71)
+![Blynk Dashboard Output - 4](https://github.com/user-attachments/assets/22c9c38f-162f-4577-b837-3a25eb0193e6)
+![Blynk Dashboard Output - 5](https://github.com/user-attachments/assets/12941019-fbf3-4c73-91d6-d0aa26d5f4d8)
 
 2. OLED display
 
