@@ -71,17 +71,13 @@ Install these from Arduino Library Manager:
 * SpO₂ (% Oxygen Saturation)
 * Auto-finger detection
 * Real-time display on OLED + Blynk
-* Remember - if (heartRate == 0 && spo2 == 0) => No Finger Placed
-           - if ((heartRate < 60 || heartRate > 140) && (spo2 > 0 && spo2 < 92)) => Health issue alert due to Heart & SpO2
-           - else => Normal
+* Remember - if (heartRate == 0 && spo2 == 0) => No Finger Placed, else if ((heartRate < 60 || heartRate > 140) && (spo2 > 0 && spo2 < 92)) => Health issue alert due to Heart & SpO2; Or else => Normal
 
 ### 🌡️ Temperature & Humidity Monitoring
 
 * Ambient temperature
 * Humidity percentage
-* Remember - if (temperature > 38.0) => Alert! High Temperature
-           - else => Temperature Normal
-           - can be configured for body temperature
+* Remember - if (temperature > 38.0) => Alert! High Temperature, else => Temperature Normal (can be configured for body temperature)
 
 ### ☔ Skin Dryness level
 
