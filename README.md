@@ -29,7 +29,7 @@ Add real photos of your project:
 
 1. Blynk Dashboard
 
-![Blynk Dashboard Output - 1](https://github.com/user-attachments/assets/22d9045c-4f5b-434c-85b8-47743c76fb8b)
+![Blynk Dashboard Output - 0](https://github.com/user-attachments/assets/3554719f-38a0-41f3-ad8c-2accb19d7cec)
 ![Blynk Dashboard Output - 2](https://github.com/user-attachments/assets/24fec24e-5bde-4d56-b644-84cb601f83f5)
 ![Blynk Charts](images/blynk_chart_section.png)
 ![Blynk Charts](images/blynk_chart_section.png)
