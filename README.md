@@ -166,11 +166,11 @@ Alerts appear on:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9b6b3c69-12a1-4105-b28b-bd363c3ae034" alt="Serial Monitor output - 1" width="540"/><br/>
+      <img src="https://github.com/user-attachments/assets/9b6b3c69-12a1-4105-b28b-bd363c3ae034" alt="Serial Monitor output - 1" width="420"/><br/>
       <small>Circuit Diagram </small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d2518f8e-00d4-49b9-94fa-383a0b887049" alt="Serial Monitor output - 2" width="540"/><br/>
+      <img src="https://github.com/user-attachments/assets/d2518f8e-00d4-49b9-94fa-383a0b887049" alt="Serial Monitor output - 2" width="420"/><br/>
       <small>Hardware Setup </small>
     </td>
   </tr>
@@ -184,21 +184,21 @@ Alerts appear on:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f0ddb09b-4025-4a77-a151-89c06fb7ba36" alt="Hardware Simulation - 1" width="420"/><br/>
+      <img src="https://github.com/user-attachments/assets/f0ddb09b-4025-4a77-a151-89c06fb7ba36" alt="Hardware Simulation - 1" width="360"/><br/>
       <small>Hardware Simulation 1</small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cd8b3111-0522-46ba-aa01-399fba315827" alt="Hardware Simulation - 2" width="420"/><br/>
+      <img src="https://github.com/user-attachments/assets/cd8b3111-0522-46ba-aa01-399fba315827" alt="Hardware Simulation - 2" width="360"/><br/>
       <small>Hardware Simulation 2</small>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/914928e3-f637-42e9-a5a3-c9f1e582e674" alt="Hardware Simulation - 3" width="420"/><br/>
+      <img src="https://github.com/user-attachments/assets/914928e3-f637-42e9-a5a3-c9f1e582e674" alt="Hardware Simulation - 3" width="360"/><br/>
       <small>Hardware Simulation 3</small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="420"/><br/>
+      <img src="https://github.com/user-attachments/assets/fde13120-6fe4-4630-ab1b-c8ffdf3f0d72" alt="Hardware Simulation - 4" width="360"/><br/>
       <small>Setup Simulations </small>
     </td>
   </tr>
