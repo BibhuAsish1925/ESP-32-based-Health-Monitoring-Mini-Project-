@@ -170,7 +170,7 @@ Alerts appear on:
       <small>Circuit Diagram - Health Monitoring </small>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6a43a0f9-7eef-42d5-b4f2-f09128f8544f" alt="Serial Monitor output - 2" width="540"/><br/>
+      <img src="https://github.com/user-attachments/assets/d2518f8e-00d4-49b9-94fa-383a0b887049" alt="Serial Monitor output - 2" width="540"/><br/>
       <small>Hardware Setup </small>
     </td>
   </tr>
