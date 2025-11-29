@@ -167,7 +167,7 @@ Alerts appear on:
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9b6b3c69-12a1-4105-b28b-bd363c3ae034" alt="Serial Monitor output - 1" width="540"/><br/>
-      <small>Circuit Diagram - Health Monitoring </small>
+      <small>Circuit Diagram </small>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d2518f8e-00d4-49b9-94fa-383a0b887049" alt="Serial Monitor output - 2" width="540"/><br/>
