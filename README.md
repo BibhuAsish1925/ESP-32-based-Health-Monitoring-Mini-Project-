@@ -161,29 +161,17 @@ Alerts appear on:
 
 ## 🖼️ Image Gallery
 
-### 🔌 1. Circuit Diagram
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/76108aeb-4103-4aa4-8b6a-baab705030a6" alt="Circuit Diagram - Health Monitoring" width="700"/>
-</p>
-
----
-
-### 🧪 2. Actual Hardware Setup
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac5a11c8-cc11-4038-81eb-a7ed1d443831" alt="Setup Simulation - 1" width="700"/>
-</p>
-
-
+### 🔌 Circuit Diagram and Hardware Setup
 
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d0092da5-d8cc-46c0-a8d7-7e2b464f979e" alt="Serial Monitor output - 1" width="540"/><br/>
-      <small>Circuit Diagram - Health Monitoring 1</small>
+      <small>Circuit Diagram - Health Monitoring </small>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6a43a0f9-7eef-42d5-b4f2-f09128f8544f" alt="Serial Monitor output - 2" width="540"/><br/>
-      <small>Hardware Setup 2</small>
+      <small>Hardware Setup </small>
     </td>
   </tr>
 </table>
